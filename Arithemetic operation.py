@@ -1,3 +1,5 @@
+# To do +,-,/,* arithemetic operations
+
 a=float(input("enter number 1:"))
 b=float(input("enter number 2:"))
 op=input("enter any one of the operaters (+,-,/,*):")
